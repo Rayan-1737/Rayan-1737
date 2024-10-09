@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨🏻‍💻  About Me</h3>
 
 ###
 
@@ -37,6 +37,10 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="go logo"  />
   <img width="12" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="go logo"  />
+  <img width="12" />
 
 </div>
 
@@ -48,6 +52,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rayan-17&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img scr=https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg
 </div>
 
 ###
