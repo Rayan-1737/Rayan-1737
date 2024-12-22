@@ -33,14 +33,14 @@
 <img src="https://skillicons.dev/icons?i=c,notion" /><br>
 <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
 <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="40" height="40">
-<img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="dark">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968753.png" alt="icon" width="50" height="50">
  <img src="https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-#  🌐Socials:
+# 🌐 Socials:
+
 <br>
 <p align="left">
 
@@ -66,20 +66,35 @@
 
 
 
-  <h2>📈My Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-17&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" />
+  <h2>📈 My Stats : </h2>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-17&theme=gruvbox&hide_border=true&langs_count=5" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-17&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-17&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-17&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-17&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-17&theme=aura&utcOffset=5.3" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-17&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-17&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-17&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-17&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-17&theme=gruvbox&utcOffset=5.3" />
 </div>
 <p>
-    <div align="center">
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-    
+
+  
+ <div align="center">
+   
+<div align="left">
+    <h2> ❝Quote For The Day❞ : </h2>
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
+        <img src="https://readme-daily-quotes.vercel.app/api?theme=vue" alt="Github Readme Daily Quotes">
+    </a>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<h1 align="center"><b> Thank You For Visiting My Profile! 😊  </b></h1>
+<img align="center" src="https://lh3.googleusercontent.com/proxy/z6N8qHJ7osyr7hI9LVqS3w__MpANHrQ-aSOfyCUa2LyoaLxZ66AqbYdTjj2_UTFnOd4rG7aTuAbVXZPz-UxKtA">
 
 
