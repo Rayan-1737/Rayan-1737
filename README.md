@@ -35,6 +35,8 @@
 <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="40" height="40">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968753.png" alt="icon" width="50" height="50">
  <img src="https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
+<img src="https://www.wpcrafter.com/wp-content/uploads/2024/08/gamma-1.png" alt="icon" width="50" height="50" />
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
