@@ -60,10 +60,12 @@
 
 <div align="center">
 <h1> 🔥 My Contributions  🔥 :</h1>
-<br>
-<img src = "https://raw.githubusercontent.com/Rayan-17/Rayan-17/output/snake.svg">
 
-<br/><br/><br/>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+<br>
+
+
 </div>
 
 
@@ -72,18 +74,26 @@
 
 <div align="center"> 
   
-  ![Rayan-17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+ ![Rayan-17 trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-17&theme=highcontrast)
 
 </div>
 
 
 <div align="center"> 
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-17&theme=blue_green)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-17&theme=blue_green)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-17&theme=blue_green)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-17&theme=blue_green)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-17&theme=blue_green&utcOffset=8)
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-17&bg_color=2A2A2A&color=39FF14&line=E0E0E0&point=39FF14&area=true&area_color=E0E0E0&hide_border=false&title_color=39FF14&text_color=E0E0E0" alt="GitHub Activity Graph"><br/>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-17&theme=2077)
+</div>
+
+<div align = " center"> 
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-17&theme=2077)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-17&theme=2077)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-17&theme=2077)
+  ![Rayan-17 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Rayan-17&theme=neon-dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-17&theme=2077&utcOffset=8)
+  ![Rayan-17 trophies](https://github-profile-trophy.vercel.app/?username=Rayan-17&theme=juicyfresh&row=1&column=6)
 </div>
 <p>
 
