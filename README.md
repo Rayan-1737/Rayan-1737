@@ -81,7 +81,7 @@
 
 <div align="center"> 
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-17&bg_color=2A2A2A&color=39FF14&line=E0E0E0&point=39FF14&area=true&area_color=E0E0E0&hide_border=false&title_color=39FF14&text_color=E0E0E0" alt="GitHub Activity Graph"><br/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-17&bg_color=000000&color=FFD700&line=FF4500&point=00FF00&area=true&area_color=FF6347&hide_border=false&title_color=FFD700&text_color=FFFFFF" alt="GitHub Activity Graph"><br/>
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-17&theme=2077)
 </div>
@@ -112,5 +112,9 @@
 
 <h1 align="center"><b> Thank You For Visiting My Profile! 😊  </b></h1>
 <img align="center" src="https://lh3.googleusercontent.com/proxy/A_JHCzJg2ug_U3NVCOSz2XkYJOBVgagR1RxQIPoIJFG9RfVc97vhHlNOaDex5iacWl55jmEoZhkLd-PqfcCFHw">
+
+
+
+
 
 
