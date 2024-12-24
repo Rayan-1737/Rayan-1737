@@ -61,7 +61,7 @@
 <div align="center">
 <h1> 🔥 My Contributions  🔥 :</h1>
 <br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<img src = "https://raw.githubusercontent.com/Rayan-17/Rayan-17/output/snake.svg">
 
 <br/><br/><br/>
 </div>
@@ -70,16 +70,20 @@
 
   <h2>📈 My Stats : </h2>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-17&theme=gruvbox&hide_border=true&langs_count=5" alt="Most used languages" />
+<div align="center"> 
+  
+  ![Rayan-17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-17&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-17&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-17&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-17&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-17&theme=gruvbox&utcOffset=5.3" />
+
+<div align="center"> 
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-17&theme=blue_green)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-17&theme=blue_green)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-17&theme=blue_green)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-17&theme=blue_green)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-17&theme=blue_green&utcOffset=8)
 </div>
 <p>
 
