@@ -94,7 +94,7 @@
   ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-17&theme=radical)
 ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-17&theme=radical)
 
-![Rayan-17 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Rayan-17&theme=highcontrast)
+![Rayan-17 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Rayan-17&theme=blue-green)
  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-17&theme=2077&utcOffset=8)
 
