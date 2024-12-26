@@ -74,14 +74,16 @@
 
 <div align="center"> 
   
- ![Rayan-17 trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-17&theme=highcontrast)
+![Rayan-17 trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-17&theme=blue-green)
 
 </div>
 
 
 <div align="center"> 
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-17&bg_color=000000&color=FFD700&line=FF4500&point=00FF00&area=true&area_color=FF6347&hide_border=false&title_color=FFD700&text_color=FFFFFF" alt="GitHub Activity Graph"><br/>
+
+[![Rayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rayan-17&bg_color=1f1e1e&color=04fbeb&line=6dceee&point=1980e1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
+
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-17&theme=radical)
 
@@ -104,7 +106,7 @@
   
  <div align="center">
    
-<div align="left">
+<div align="center">
     <h2> ❝Quote For The Day❞ : </h2>
     <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
         <img src="https://readme-daily-quotes.vercel.app/api?theme=vue" alt="Github Readme Daily Quotes">
@@ -116,9 +118,4 @@
 
 <h1 align="center"><b> Thank You For Visiting My Profile! 😊  </b></h1>
 <img align="center" src="https://lh4.googleusercontent.com/proxy/T8woP5YotaGz9eA-7L2bkezSrxh6rj9gMD_D6Mzuhcizz3rMrvrgecx-VJWvUuqSyrj0cvbCWNymoEI">
-
-
-
-
-
 
