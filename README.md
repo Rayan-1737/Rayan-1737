@@ -81,8 +81,7 @@
 
 <div align="center"> 
 
-
-[![Rayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rayan-17&bg_color=1f1e1e&color=04fbeb&line=6dceee&point=1980e1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
+[![Rayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rayan-17&bg_color=1b181b&color=09e8ec&line=04fbd2&point=148cc8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
 
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-17&theme=radical)
