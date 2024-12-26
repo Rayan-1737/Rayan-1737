@@ -83,18 +83,22 @@
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-17&bg_color=000000&color=FFD700&line=FF4500&point=00FF00&area=true&area_color=FF6347&hide_border=false&title_color=FFD700&text_color=FFFFFF" alt="GitHub Activity Graph"><br/>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-17&theme=2077)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-17&theme=radical)
+
 </div>
 
 <div align = " center"> 
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-17&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-17&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-17&theme=2077)
-  ![Rayan-17 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Rayan-17&theme=neon-dark)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-17&theme=radical)
+
+  ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-17&theme=radical)
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-17&theme=radical)
+
+![Rayan-17 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Rayan-17&theme=highcontrast)
+ 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rayan-17&theme=2077&utcOffset=8)
-  ![Rayan-17 trophies](https://github-profile-trophy.vercel.app/?username=Rayan-17&theme=juicyfresh&row=1&column=6)
-</div>
+
+ ![](https://github-profile-trophy.vercel.app/?username=Rayan-17&theme=juicyfresh&row=2&column=4)
 <p>
 
   
