@@ -20,7 +20,7 @@
 <img align="right" height="360" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" height="45%" width="45%"  />  
 
 
-<p>🌱 I am currently Learnning :  c++ , NOCODE , Python </p>
+<p>🌱 I am currently Learnning :  HTML , CSS , JAVA-SCRIPT , UI/UX </p>
 
 <p>👨‍💻 I am a B.Tech CSE student</p>
 
