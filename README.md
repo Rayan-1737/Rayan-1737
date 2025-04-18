@@ -27,18 +27,25 @@
 
 🧑🏻‍💻 Languages and Tools : </h3>
 
-<a href="https://skillicons.dev">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" /> <div align="left"> <img src="https://skillicons.dev/icons?i=html,vscode,github,git" />
-<img src="https://skillicons.dev/icons?i=c,notion" /><br>
-<img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
+<div align="left"> 
+<a href="https://skillicons.dev"> <div align="left"> 
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> 
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
+<div align="left"> 
+<img src="https://skillicons.dev/icons?i=c,notion" />
+<img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50"> 
 <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="40" height="40">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968753.png" alt="icon" width="50" height="50">
- <img src="https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
+<img src="https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
 <img src="https://www.wpcrafter.com/wp-content/uploads/2024/08/gamma-1.png" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://repository-images.githubusercontent.com/403817624/3d10f761-1027-4d0a-9906-48361e466d87" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://img.icons8.com/?size=160&id=4d9YPiN04osD&format=png" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=light" />
+<img src="https://skillicons.dev/icons?i=figma&theme=light" />
 
-<img src="[https://www.wpcrafter.com/wp-content/uploads/2024/08/gamma-1.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FabhiXsliet%2FSolved-DSA-Problems&psig=AOvVaw0eP-n1dZsqZR0Zpuzbnrxd&ust=1745071936466000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj_lNvh4YwDFQAAAAAdAAAAABAE
-)" alt="icon" width="50" height="50" />
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
