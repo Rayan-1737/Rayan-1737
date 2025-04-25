@@ -25,26 +25,31 @@
 <p>👨‍💻 I am a B.Tech CSE student</p>
 
 
+
 🧑🏻‍💻 Languages and Tools : </h3>
 
-<div align="left"> 
-<a href="https://skillicons.dev"> <div align="left"> 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> 
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
-<div align="left"> 
-<img src="https://skillicons.dev/icons?i=c,notion" />
-<img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50"> 
-<img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="40" height="40">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968753.png" alt="icon" width="50" height="50">
-<img src="https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
-<img src="https://www.wpcrafter.com/wp-content/uploads/2024/08/gamma-1.png" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://repository-images.githubusercontent.com/403817624/3d10f761-1027-4d0a-9906-48361e466d87" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://img.icons8.com/?size=160&id=4d9YPiN04osD&format=png" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=light" />
-<img src="https://skillicons.dev/icons?i=figma&theme=light" />
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 450px;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50" />
+  <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" alt="AppSheet" width="50" height="50" />
+  <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" alt="Canva" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968753.png" alt="Wix" width="50" height="50" />
+  <img src="https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="Scratch" width="50" height="50" />
+  <img src="https://www.wpcrafter.com/wp-content/uploads/2024/08/gamma-1.png" alt="Gamma" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+  <img src="https://repository-images.githubusercontent.com/403817624/3d10f761-1027-4d0a-9906-48361e466d87" alt="GitHub" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://img.icons8.com/?size=160&id=4d9YPiN04osD&format=png" alt="VS Code" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50" />
+</div>
 
 
 
@@ -134,4 +139,9 @@
 
 <h1 align="center"><b> Thank You For Visiting My Profile! 😊  </b></h1>
 <img align="center" src="https://lh4.googleusercontent.com/proxy/T8woP5YotaGz9eA-7L2bkezSrxh6rj9gMD_D6Mzuhcizz3rMrvrgecx-VJWvUuqSyrj0cvbCWNymoEI">
+
+
+
+
+
 
