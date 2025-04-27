@@ -47,16 +47,12 @@
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
-  
-<img src="https://i.pinimg.com/originals/16/21/3f/16213fe0d23aa40c1208ba1594acef50.gif" alt="Animated Tech Stack Icon" width="70" height="50" />
-  
+  <img src="https://www.computernetworkingnotes.com/wp-content/uploads/ccna-study-guide/images/csg132-01-cisco-packet-tracer.png"  width="50"       height="50" />
+  <img src="https://i.pinimg.com/originals/16/21/3f/16213fe0d23aa40c1208ba1594acef50.gif" alt="Animated Tech Stack Icon" width="70"               height="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50" />
-</div>
-
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  </div>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 # 🌐 Socials:
