@@ -12,7 +12,7 @@ jobs:
     steps:
       # Checkout the repository
       - name: Checkout repository
-        uses: actions/checkout@v4 # Updated to latest version for better compatibility
+        uses: actions/checkout@v4
 
       # Ensure dist folder exists
       - name: Ensure dist folder exists
@@ -26,9 +26,17 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
           gif_out_path: dist/github-contribution-grid-snake.gif
 
+      # Debug: Check the generated files
+      - name: Debug - List files in dist folder
+        run: ls -la dist/
+
+      # Debug: Display the content of the SVG file (to see if it’s empty or malformed)
+      - name: Debug - Show SVG file content
+        run: cat dist/github-contribution-grid-snake.svg || echo "SVG file not found"
+
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4 # Updated to latest version
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
