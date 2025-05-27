@@ -139,7 +139,7 @@
 
 
 <h1 align="center"><b> Thank You For Visiting My Profile! 😊  </b></h1>
-<img align="center" src="https://lh4.googleusercontent.com/proxy/T8woP5YotaGz9eA-7L2bkezSrxh6rj9gMD_D6Mzuhcizz3rMrvrgecx-VJWvUuqSyrj0cvbCWNymoEI">
+<img align="center" src="https://cdn.myportfolio.com/e638e37a91e4476d1063c8842c7f8295/002aad99-3595-4132-b213-db813d237267_rw_600.gif?h=256cc9871ec4aa51cd47a76c4f2ad980">
 
 
 
