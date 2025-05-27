@@ -10,17 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Check out the repository
+      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate snake animation (updated input keys)
+      # Generate the GitHub Snake animation (latest input format)
       - name: Generate GitHub Snake
         uses: Platane/snk@master
         with:
           github_user_name: Rayan-1737
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: ./dist/github-contribution-grid-snake.svg
+          gif_out_path: ./dist/github-contribution-grid-snake.gif
+
+      # Create the dist folder manually (just to be sure)
+      - name: Ensure dist folder exists
+        run: mkdir -p dist
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
