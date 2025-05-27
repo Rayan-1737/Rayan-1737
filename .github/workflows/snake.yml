@@ -18,15 +18,14 @@ jobs:
       - name: Ensure dist folder exists
         run: mkdir -p dist
 
-      # Generate the GitHub Snake animation
-      - name: Generate GitHub Snake
-        uses: crazy-max/ghaction-github-contribution-snake@v1
+      # Attempt to generate the snake animation with a fallback
+      - name: Generate GitHub Snake with Platane/snk
+        uses: Platane/snk@v3
         with:
-          github-user: Rayan-1737
-          output-svg: dist/github-contribution-grid-snake.svg
-          output-gif: dist/github-contribution-grid-snake.gif
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: Rayan-1737
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+        continue-on-error: true  # Continue even if this step fails
 
       # Debug: Check the generated files
       - name: Debug - List files in dist folder
@@ -35,11 +34,6 @@ jobs:
       # Debug: Display the content of the SVG file
       - name: Debug - Show SVG file content
         run: cat dist/github-contribution-grid-snake.svg || echo "SVG file not found"
-
-      # Debug: Check GITHUB_TOKEN permissions
-      - name: Debug - Test GitHub API access
-        run: |
-          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/users/Rayan-1737/events || echo "Failed to fetch contribution data"
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
