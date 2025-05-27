@@ -12,23 +12,23 @@ jobs:
     steps:
       # Checkout the repository
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to latest version for better compatibility
 
-      # Generate the GitHub Snake animation (latest input format)
+      # Ensure dist folder exists
+      - name: Ensure dist folder exists
+        run: mkdir -p dist
+
+      # Generate the GitHub Snake animation
       - name: Generate GitHub Snake
         uses: Platane/snk@master
         with:
           github_user_name: Rayan-1737
-          svg_out_path: ./dist/github-contribution-grid-snake.svg
-          gif_out_path: ./dist/github-contribution-grid-snake.gif
-
-      # Create the dist folder manually (just to be sure)
-      - name: Ensure dist folder exists
-        run: mkdir -p dist
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+        uses: crazy-max/ghaction-github-pages@v4 # Updated to latest version
         with:
           target_branch: output
           build_dir: dist
