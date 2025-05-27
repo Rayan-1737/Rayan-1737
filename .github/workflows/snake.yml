@@ -20,7 +20,7 @@ jobs:
 
       # Generate the GitHub Snake animation
       - name: Generate GitHub Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3  # Updated to v3
         with:
           github_user_name: Rayan-1737
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -30,7 +30,7 @@ jobs:
       - name: Debug - List files in dist folder
         run: ls -la dist/
 
-      # Debug: Display the content of the SVG file (to see if it’s empty or malformed)
+      # Debug: Display the content of the SVG file
       - name: Debug - Show SVG file content
         run: cat dist/github-contribution-grid-snake.svg || echo "SVG file not found"
 
